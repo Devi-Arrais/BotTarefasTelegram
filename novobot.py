@@ -1,8 +1,8 @@
 
 import telebot
 from telebot import types
+from toke import TOKEN
 
-TOKEN = "5574183715:AAFPfQuKsQhZInJbXKTlZyn4aKMO1sJIde4"
 bot = telebot.TeleBot(TOKEN)
 
 def ler_tarefa(dias, msg):
