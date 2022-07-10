@@ -1,1 +1,1 @@
-worker: python novobot.py
+worker: python3 novobot.py
